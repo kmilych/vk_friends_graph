@@ -1,3 +1,7 @@
 private_settings.py
+
+# ignore notebooks except the report
 *.ipynb
+!vk_friends_graph.ipynb
+
 __pycache__/

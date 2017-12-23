@@ -35,7 +35,7 @@
             "first_name": "\u0421\u043e\u043d\u044f",
             "last_name": "\u0414\u0443\u0431\u0430\u0441\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c604720/v604720675/41b99/7Qjcesz48NA.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0035546146601421495,
             "group": 1
         },
@@ -89,7 +89,7 @@
             "first_name": "\u0418\u0433\u043e\u0440\u044c",
             "last_name": "\u041c\u043e\u043b\u0447\u0430\u043d\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c315531/v315531772/8687/yLb62VZcLdU.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.001475848785062785,
             "group": 2
         },
@@ -98,7 +98,7 @@
             "first_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
             "last_name": "\u0417\u0430\u0441\u043e\u0440\u0438\u043d",
             "photo_50": "https://pp.userapi.com/c637531/v637531317/3622a/NNIbG3CA8Gw.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00031378941730383794,
             "group": 2
         },
@@ -107,7 +107,7 @@
             "first_name": "\u0421\u0435\u0440\u0433\u0435\u0439",
             "last_name": "\u0421\u043a\u043e\u043f\u0438\u043d\u0446\u0435\u0432",
             "photo_50": "https://pp.userapi.com/c638520/v638520640/57130/LQBmvhayZr8.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0024552376858,
             "group": 2
         },
@@ -143,7 +143,7 @@
             "first_name": "\u041d\u0430\u0441\u0442\u044f",
             "last_name": "\u0421\u0443\u0441\u043b\u0438\u043d\u0430",
             "photo_50": "https://pp.userapi.com/c840522/v840522944/2be85/Bg6mJ6Thfnc.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0009879610215802691,
             "group": 2
         },
@@ -161,7 +161,7 @@
             "first_name": "\u042f\u043a\u043e\u0432",
             "last_name": "\u0410\u0439\u0437\u0435\u043d\u0431\u0435\u0440\u0433",
             "photo_50": "https://pp.userapi.com/c840321/v840321991/3424a/ZQ-uCpUVQrI.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00011889115338919087,
             "group": 2
         },
@@ -197,7 +197,7 @@
             "first_name": "\u0421\u043e\u043d\u044f",
             "last_name": "\u0428\u0430\u043f\u043e\u0432\u0430\u043b\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c627519/v627519954/233fd/Sgfufln7fZs.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0009255487780062507,
             "group": 2
         },
@@ -206,7 +206,7 @@
             "first_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
             "last_name": "\u0410\u043b\u0435\u0448\u0438\u043d",
             "photo_50": "https://pp.userapi.com/c621431/v621431531/11985/OSmv7g11Glg.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0007511121570558037,
             "group": 2
         },
@@ -233,7 +233,7 @@
             "first_name": "\u0412\u0430\u043b\u0435\u0440\u0438\u044f",
             "last_name": "\u041e\u043a\u0441\u0438\u043d\u0435\u043d\u043a\u043e",
             "photo_50": "https://pp.userapi.com/c621702/v621702777/3c5bb/b4cKd0OyRk4.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0008527594583453119,
             "group": 2
         },
@@ -251,7 +251,7 @@
             "first_name": "\u0420\u043e\u0434\u0438\u043e\u043d",
             "last_name": "\u0422\u0440\u0435\u0433\u0443\u0431\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c639718/v639718230/4d6c1/Mo5myvqfcI4.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0031590628342943665,
             "group": 1
         },
@@ -278,7 +278,7 @@
             "first_name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
             "last_name": "\u0428\u0430\u0442\u0430\u043b\u0438\u043d\u0430",
             "photo_50": "https://pp.userapi.com/c626121/v626121163/69bbd/2QsobdkbQjc.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00042898588658427957,
             "group": 2
         },
@@ -287,7 +287,7 @@
             "first_name": "\u041b\u044e\u0431\u0430",
             "last_name": "\u0426\u0435\u043b\u044b\u0445",
             "photo_50": "https://pp.userapi.com/c841423/v841423949/241cc/cZDk967hUBc.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00024518798214736946,
             "group": 2
         },
@@ -323,7 +323,7 @@
             "first_name": "\u041d\u0430\u0441\u0442\u044f",
             "last_name": "\u041b\u044f\u0448\u0435\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c638221/v638221257/8bd0/XLsGhvTyyoQ.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0011457063687361994,
             "group": 2
         },
@@ -341,7 +341,7 @@
             "first_name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439",
             "last_name": "\u0411\u0430\u0440\u0434\u0443\u043a\u043e\u0432",
             "photo_50": "https://vk.com/images/camera_50.png",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.00046182085188094317,
             "group": 3
         },
@@ -404,7 +404,7 @@
             "first_name": "\u041a\u0438\u0440\u0438\u043b\u043b",
             "last_name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c625425/v625425507/49606/lN04h7CcF_c.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 6.679138097854998e-05,
             "group": 3
         },
@@ -413,7 +413,7 @@
             "first_name": "\u041d\u0430\u0441\u0442\u044f",
             "last_name": "\u0412\u0435\u0434\u044c",
             "photo_50": "https://pp.userapi.com/c841629/v841629175/247d3/VPCfo9W_lyA.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0021142047897556504,
             "group": 3
         },
@@ -440,7 +440,7 @@
             "first_name": "\u0414\u0430\u043d\u0438\u0438\u043b",
             "last_name": "\u0412\u0430\u043d\u044c\u043a\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c626926/v626926263/3390f/oTHjpiA5SF8.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0013839975021097178,
             "group": 3
         },
@@ -449,7 +449,7 @@
             "first_name": "Denis",
             "last_name": "Derkach",
             "photo_50": "https://pp.userapi.com/c836121/v836121715/47827/DrNe-4fVct0.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0005547128965603512,
             "group": 3
         },
@@ -467,7 +467,7 @@
             "first_name": "\u0410\u0439\u0431\u0435\u043a",
             "last_name": "\u0410\u043b\u0430\u043d\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c639720/v639720895/49dbb/fGux25qaMs0.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 8.072631761611136e-05,
             "group": 3
         },
@@ -530,7 +530,7 @@
             "first_name": "\u041f\u043e\u043b\u0438\u043d\u0430",
             "last_name": "\u0427\u0435\u0441\u043d\u043e\u043a\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c836120/v836120725/3bf2c/oo9NpSeMTkk.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0039024918278235134,
             "group": 3
         },
@@ -539,7 +539,7 @@
             "first_name": "\u041c\u0430\u0440\u0438\u044f",
             "last_name": "\u0425\u0440\u0443\u0437\u0438\u043d\u0430",
             "photo_50": "https://pp.userapi.com/c840520/v840520717/1bc6a/cyfKTO0jDtE.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0,
             "group": 0
         },
@@ -557,7 +557,7 @@
             "first_name": "\u041d\u0430\u0441\u0442\u044f",
             "last_name": "\u0420\u044b\u043c\u0430\u043d\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c616522/v616522285/1d1c5/RjWGOQfO8OE.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 7.323248174418847e-05,
             "group": 0
         },
@@ -566,7 +566,7 @@
             "first_name": "\u041a\u043e\u0441\u0442\u044f",
             "last_name": "\u0427\u0435\u043a\u0430\u043d\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c639419/v639419156/4a1e1/4AuUi4Ihwmk.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0,
             "group": 0
         },
@@ -575,7 +575,7 @@
             "first_name": "\u0418\u0440\u0430",
             "last_name": "\u0426\u0435\u043b\u044b\u0445",
             "photo_50": "https://pp.userapi.com/c638416/v638416918/2aac3/r-82OiDeEgo.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.009435269785344121,
             "group": 1
         },
@@ -593,7 +593,7 @@
             "first_name": "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0430",
             "last_name": "\u0423\u044d\u0442\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c836524/v836524779/371c9/DRPsjmJnjEk.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0009685742887336685,
             "group": 3
         },
@@ -674,7 +674,7 @@
             "first_name": "\u0410\u0440\u043c\u0430\u043d",
             "last_name": "\u0422\u0443\u0433\u0430\u043d\u0431\u0430\u0435\u0432",
             "photo_50": "https://pp.userapi.com/c836534/v836534173/5e36a/-2ebdzieuxE.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0016777897160926054,
             "group": 3
         },
@@ -737,7 +737,7 @@
             "first_name": "\u0410\u043d\u0434\u0440\u0435\u0439",
             "last_name": "\u0414\u0435\u043d\u0438\u0441\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c830508/v830508204/1cba2/mJHybtcrX88.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00019877387901994013,
             "group": 0
         },
@@ -755,7 +755,7 @@
             "first_name": "\u0414\u0430\u043d\u0438\u0438\u043b",
             "last_name": "\u0413\u0440\u0438\u0448\u0438\u043d",
             "photo_50": "https://pp.userapi.com/c840232/v840232323/1c77f/VTT8iuK-BU8.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 4.483621331276845e-06,
             "group": 0
         },
@@ -764,7 +764,7 @@
             "first_name": "\u0410\u043d\u044f",
             "last_name": "\u0428\u0435\u0447\u043a\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c637226/v637226974/4fcd/omTMcQimhIc.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 1.2554139727575168e-05,
             "group": 0
         },
@@ -791,7 +791,7 @@
             "first_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430",
             "last_name": "\u0411\u0430\u0448\u043a\u0430\u0442\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c639825/v639825397/61806/BT-K0LenKbA.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.005329717612724847,
             "group": 2
         },
@@ -863,7 +863,7 @@
             "first_name": "\u0421\u043e\u0444\u0438",
             "last_name": "\u041a\u0430\u0448\u043a\u0438\u043d\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c840230/v840230872/24cbd/UNa-CiB0MYQ.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 3.1385349318937917e-05,
             "group": 0
         },
@@ -913,7 +913,7 @@
             "first_name": "\u0410\u043b\u0438\u043d\u0430",
             "last_name": "\u0421\u0430\u0444\u0430\u0440\u0433\u0430\u043b\u0438\u043d\u0430",
             "photo_50": "https://pp.userapi.com/c639124/v639124565/1d0bf/XNRBM88UOVw.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 6.230903667274487e-05,
             "group": 3
         },
@@ -972,7 +972,7 @@
             "first_name": "\u0410\u043b\u044c\u0431\u0435\u0440\u0442",
             "last_name": "\u0413\u043e\u0440\u044f\u0435\u0432",
             "photo_50": "https://pp.userapi.com/c639821/v639821744/f1c1/cHwzBc0dGMc.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.00010461783106312638,
             "group": 2
         },
@@ -981,7 +981,7 @@
             "first_name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f",
             "last_name": "\u041b\u0430\u043a\u0438\u043d\u0430",
             "photo_50": "https://pp.userapi.com/c639617/v639617317/622fe/PpdC-GGTS_o.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 3.576933462063083e-05,
             "group": 2
         },
@@ -1026,7 +1026,7 @@
             "first_name": "\u041b\u0438\u0437\u0430",
             "last_name": "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u0430\u044f",
             "photo_50": "https://pp.userapi.com/c619830/v619830627/23488/5dk7rgZ1I2k.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0009111614302905914,
             "group": 1
         },
@@ -1053,7 +1053,7 @@
             "first_name": "\u0410\u043d\u0434\u0440\u0435\u0439",
             "last_name": "\u041a\u0430\u0442\u0443\u043d\u0438\u043d",
             "photo_50": "https://pp.userapi.com/c840522/v840522547/35e6f/AsnOFSnkvmQ.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.000359454050456575,
             "group": 1
         },
@@ -1071,7 +1071,7 @@
             "first_name": "\u0410\u043b\u043b\u0430",
             "last_name": "\u041c\u043e\u0438\u0441\u0435\u0435\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c836122/v836122110/5086a/aCg7pCfbHL4.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0010859954416541778,
             "group": 1
         },
@@ -1116,7 +1116,7 @@
             "first_name": "\u041b\u0435\u043d\u0430",
             "last_name": "\u0410\u0441\u0435\u0435\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c841437/v841437456/3ad92/3DJIVStstI0.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.006700640866283497,
             "group": 1
         },
@@ -1125,7 +1125,7 @@
             "first_name": "\u041c\u0438\u0445\u0430\u0438\u043b",
             "last_name": "\u041c\u0430\u0440\u0447\u0435\u043d\u043a\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c636428/v636428995/62dad/7lp2XwXYJtY.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0005759556237837023,
             "group": 1
         },
@@ -1143,7 +1143,7 @@
             "first_name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
             "last_name": "\u041c\u0435\u043b\u044c\u043d\u0438\u0447\u0443\u043a",
             "photo_50": "https://vk.com/images/camera_50.png",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0012813259342821068,
             "group": 1
         },
@@ -1179,7 +1179,7 @@
             "first_name": "\u0410\u043d\u044f",
             "last_name": "\u041e\u0441\u0435\u043f\u044f\u043d",
             "photo_50": "https://pp.userapi.com/c837627/v837627348/5bd03/BxiUnEZ-w1M.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00010265228393406158,
             "group": 0
         },
@@ -1206,7 +1206,7 @@
             "first_name": "\u0412\u0430\u0434\u0438\u043c",
             "last_name": "\u041a\u0438\u0441\u0435\u043b\u0451\u0432",
             "photo_50": "https://pp.userapi.com/c824602/v824602587/118de/EHpTuSe1Rq8.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.00017785031280731484,
             "group": 0
         },
@@ -1251,7 +1251,7 @@
             "first_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
             "last_name": "\u041b\u0430\u0432\u0440\u0443\u0445\u0438\u043d",
             "photo_50": "https://pp.userapi.com/c638321/v638321924/6ebff/XS1CA6t6SHY.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0008604453565034681,
             "group": 1
         },
@@ -1269,7 +1269,7 @@
             "first_name": "Olya",
             "last_name": "Borisova",
             "photo_50": "https://pp.userapi.com/c639431/v639431145/558e0/tE0VdONk-5g.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 5.7813806166075326e-05,
             "group": 1
         },
@@ -1296,7 +1296,7 @@
             "first_name": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439",
             "last_name": "\u0416\u0430\u0440\u043a\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c623626/v623626334/4df1c/_lmNh29lrPM.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 2.6392686651818864e-05,
             "group": 3
         },
@@ -1386,7 +1386,7 @@
             "first_name": "\u041c\u0430\u0440\u0438\u044f",
             "last_name": "\u0410\u0444\u0430\u043d\u0430\u0441\u0435\u043d\u043a\u043e\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c841423/v841423940/37a73/l3UsTmR_NNU.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0,
             "group": 1
         },
@@ -1422,7 +1422,7 @@
             "first_name": "\u041d\u0430\u0434\u044f",
             "last_name": "\u041c\u0443\u0445\u0430\u043b\u0435\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c834203/v834203851/43881/e2Wqk3Wrz9U.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0001556563872174945,
             "group": 0
         },
@@ -1440,7 +1440,7 @@
             "first_name": "\u0410\u043d\u0434\u0440\u0435\u0439",
             "last_name": "\u0420\u044b\u0431\u0446\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c837731/v837731775/3a568/PX5htpod06A.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 1.5692674659468958e-05,
             "group": 0
         },
@@ -1467,7 +1467,7 @@
             "first_name": "\u042d\u0434\u0443\u0430\u0440\u0434",
             "last_name": "\u0421\u0430\u0432\u0438\u043d\u043e\u0432",
             "photo_50": "https://pp.userapi.com/c836636/v836636873/55dd7/tg_X79d9zXM.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 1.2554139727575168e-05,
             "group": 0
         },
@@ -1490,7 +1490,7 @@
             "first_name": "\u0416\u0435\u043d\u044f",
             "last_name": "\u0421\u0442\u0443\u0434\u0435\u043d\u0438\u043a\u0438\u043d\u0430",
             "photo_50": "https://pp.userapi.com/c824410/v824410904/59177/C4jMtIQlnn0.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 2.0923566212625278e-05,
             "group": 0
         },
@@ -1499,7 +1499,7 @@
             "first_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430",
             "last_name": "\u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c639119/v639119897/4e9df/JY4FjBEV5Bg.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 5.230891553156319e-05,
             "group": 0
         },
@@ -1526,7 +1526,7 @@
             "first_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440",
             "last_name": "\u0414\u044e\u0436\u0438\u0439",
             "photo_50": "https://pp.userapi.com/c637925/v637925659/56fa9/lea8cDTPwZc.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0,
             "group": 0
         },
@@ -1589,7 +1589,7 @@
             "first_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
             "last_name": "\u041a\u043d\u044b\u0448\u0435\u0432",
             "photo_50": "https://pp.userapi.com/c631631/v631631131/492cd/5QnNGTvThIM.jpg",
-            "online": 0,
+            "online": 1,
             "betweenness": 0.0,
             "group": 0
         },
@@ -1598,7 +1598,7 @@
             "first_name": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f",
             "last_name": "\u0421\u043e\u043b\u043e\u0436\u0435\u043d\u0446\u0435\u0432\u0430",
             "photo_50": "https://pp.userapi.com/c841124/v841124906/10741/VFE6ZbXDU4s.jpg",
-            "online": 1,
+            "online": 0,
             "betweenness": 0.0,
             "group": 0
         }

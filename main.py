@@ -77,7 +77,6 @@ if __name__ == '__main__':
     group.add_argument("-j","--jsonpath",type=str,help="Load and visualize graph from json.(may not be used with -v)")
     parser.add_argument("-k", "--keeproot",action="store_true",help="If provided with -v keeps the root node in resulting graph. (ignored with -j)")
     args = parser.parse_args()
-    print(args.keeproot)
     if args.jsonpath is not None :
         with open(args.jsonpath, 'r') as f:
             friends_network = nx.readwrite.node_link_graph(json.load(f))
