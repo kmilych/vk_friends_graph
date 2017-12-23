@@ -25,9 +25,14 @@ var svg = d3.select("svg"),
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 var gradientcolor = d3.interpolateRainbow;
 
+const forceX = d3.forceX(width / 2).strength(0.015)
+const forceY = d3.forceY(height / 2).strength(0.015)
+
 var simulation = d3.forceSimulation()
+    .force('x', forceX)
+    .force('y',  forceY)
     .force("link", d3.forceLink())
-    .force("charge", d3.forceManyBody().strength(-10).distanceMax(300))
+    .force("charge", d3.forceManyBody().strength(-100).distanceMax(100))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 d3.json("friends_network.json", function(error, graph) {
