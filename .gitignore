@@ -1,6 +1,7 @@
 private_settings.py
 
 # ignore notebooks except the report
+.ipynb_checkpoints/
 *.ipynb
 !vk_friends_graph.ipynb
 
